@@ -1,1 +1,12 @@
 /* your code here */
+#mySecondH2 {
+	display: none;
+}
+
+#myUL > li {
+	display: inline;
+}
+
+strong {
+	display: block;
+}
